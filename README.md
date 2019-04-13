@@ -95,7 +95,7 @@ Simply set the `data_path` and `load_path` as in the `Evaluation` section.
 
 The bilingual word embeddings will be saved under `./eval` similarly as above, which can be directly used as cross-lingual embeddings for cross-lingual transfer.
 ## Pretrained bilingual embedding mappings
-We provide pretrained bilingual embedding mappings reported in the paper as follows:
+We provide pretrained bilingual embedding mappings reported in the paper [here](https://github.com/violet-zct/DeMa-BWE/releases/tag/v1).
 
 ## References
 ```
