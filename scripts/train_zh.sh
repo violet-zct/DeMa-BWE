@@ -29,8 +29,8 @@ CUDA_VISIBLE_DEVICES=2 OMP_NUM_THREADS=4 python -u ../main_e2e.py \
     --src_base_batch_size 20000 \
     --tgt_base_batch_size 20000 \
     --batch_size 2048 \
-    --sup_s_weight 10. \
-    --sup_t_weight 10. \
+    --sup_s_weight 5. \
+    --sup_t_weight 5. \
     --s_var 0.01 \
     --s2t_t_var 0.015 \
     --t_var 0.015 \
