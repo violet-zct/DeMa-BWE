@@ -4,7 +4,7 @@ faiss==1.5.2
 fasttext==0.8.22
 mkl-fft==1.0.12
 mkl-random==1.0.2
-numpy==1.16.4
+numpy==1.22.0
 overrides==1.9
 pybind11==2.3.0
 pycparser==2.19
