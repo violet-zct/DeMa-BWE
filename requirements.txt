@@ -1,4 +1,4 @@
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 faiss==1.5.2
 fasttext==0.8.22
